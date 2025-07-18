@@ -1,102 +1,1019 @@
+ {
+  "BUKETLƏR": [
 {
-  "transactions": [
+    "id": 20101,
+    "name": "9 qızılgül buketi",
+    "code": "9997",
+    "price": 65.0,
+    "img": "https://agciceyim.az/data/catalog/product/827/2319_lg.jpg",
+    "category": "Qızılgül buketi",
+    "group": "Buketlər"
+  },
+  {
+    "id": 20102,
+    "name": "25 qızılgül",
+    "code": "4561",
+    "price": 130.0,
+    "img": "https://agciceyim.az/data/catalog/product/762/2224_md.jpg",
+    "category": "Qızılgül buketi",
+    "group": "Buketlər"
+  },
+  {
+    "id": 20103,
+    "name": "100 ədədli qızılgül əklili (Çələngi)",
+    "code": null,
+    "price": 500.0,
+    "img": "https://agciceyim.az/data/catalog/product/696/2124_md.jpeg",
+    "category": "Qızılgül buketi",
+    "group": "Buketlər"
+  },
+  {
+    "id": 20201,
+    "name": "Kol qızılgülləri qutuda",
+    "code": "0068",
+    "price": 85.0,
+    "img": "",
+    "category": "Qızılgül qutuda",
+    "group": "Buketlər"
+  },
+  {
+    "id": 10301,
+    "name": "Pion (Şakayık) qutuda",
+    "code": "001",
+    "priceOld": 350.0,
+    "price": 300.0,
+    "img": "https://agciceyim.az/data/catalog/product/690/2114_md.jpg",
+    "category": "Pion",
+    "group": "Buketlər"
+  },
+  {
+    "id": 10401,
+    "name": "Buket mix",
+    "code": "5050",
+    "priceOld": 500.0,
+    "price": 450.0,
+    "img": "https://agciceyim.az/data/catalog/product/766/2238_md.jpeg",
+    "category": "Pion qızılgülləri",
+    "group": "Buketlər"
+  },
+  {
+    "id": 10402,
+    "name": "Sərfəli buket mix",
+    "code": "101",
+    "price": 50.0,
+    "img": "https://agciceyim.az/data/catalog/product/763/2225_md.jpg",
+    "category": "Pion qızılgülləri",
+    "group": "Buketlər"
+  },
+  {
+    "id": 10501,
+    "name": "7 gözəl buketi",
+    "code": "2121",
+    "price": 120.0,
+    "img": "https://agciceyim.az/data/catalog/product/826/2318_md.jpeg",
+    "category": "Ortancalar",
+    "group": "Buketlər"
+  },
+  {
+    "id": 10502,
+    "name": "7 gözəl qutuda",
+    "code": "94596",
+    "price": 300.0,
+    "img": "https://agciceyim.az/data/catalog/product/798/2280_md.jpg",
+    "category": "Ortancalar",
+    "group": "Buketlər"
+  },
+  {
+    "id": 10503,
+    "name": "Miks buket",
+    "code": "12890",
+    "priceOld": 150.0,
+    "price": 130.0,
+    "img": "https://agciceyim.az/data/catalog/product/794/2276_md.jpg",
+    "category": "Ortancalar",
+    "group": "Buketlər"
+  },
+  {
+    "id": 10504,
+    "name": "Hortenziya buketi",
+    "code": "9457",
+    "price": 220.0,
+    "img": "https://agciceyim.az/data/catalog/product/781/2259_md.jpg",
+    "category": "Ortancalar",
+    "group": "Buketlər"
+  },
+  {
+    "id": 10601,
+    "name": "Simbidium kompozisiya",
+    "code": "9871",
+    "price": 2000.0,
+    "img": "https://agciceyim.az/data/catalog/product/742/2200_md.jpg",
+    "category": "Orkide ilə buketlər",
+    "group": "Buketlər"
+  },
+  {
+    "id": 11001,
+    "name": "Mix buket",
+    "code": "000157",
+    "price": 100.0,
+    "img": "https://agciceyim.az/data/catalog/product/831/2326_md.jpg",
+    "category": "Papatya ilə buketlər",
+    "group": "Buketlər"
+  },
+  {
+    "id": 11002,
+    "name": "Buket mix",
+    "code": "5059",
+    "price": 140.0,
+    "img": "https://agciceyim.az/data/catalog/product/767/2242_md.jpg",
+    "category": "Papatya ilə buketlər",
+    "group": "Buketlər"
+  },
+  {
+    "id": 11003,
+    "name": "Papatya səbətdə",
+    "code": "7891",
+    "price": 755.0,
+    "img": "https://agciceyim.az/data/catalog/product/743/2201_md.jpg",
+    "category": "Papatya ilə buketlər",
+    "group": "Buketlər"
+  },
+  {
+    "id": 11004,
+    "name": "Çəhrayı Çobanyastığı",
+    "code": null,
+    "price": 75.0,
+    "img": "https://agciceyim.az/data/catalog/product/730/2170_md.jpg",
+    "category": "Papatya ilə buketlər",
+    "group": "Buketlər"
+  },
+  {
+    "id": 11005,
+    "name": "Çobanyastığı (kır papatyası)",
+    "code": "009",
+    "price": 550.0,
+    "img": "https://agciceyim.az/data/catalog/product/705/2204_md.jpg",
+    "category": "Papatya ilə buketlər",
+    "group": "Buketlər"
+  },
+  {
+    "id": 11006,
+    "name": "Çobanyastığı",
+    "code": "008",
+    "priceOld": 600.0,
+    "price": 500.0,
+    "img": "https://agciceyim.az/data/catalog/product/704/2134_md.jpg",
+    "category": "Papatya ilə buketlər",
+    "group": "Buketlər"
+  },
+  
+  {
+    "id": 12001,
+    "name": "Eristoma buketi",
+    "code": "0047",
+    "price": 55.0,
+    "img": "https://agciceyim.az/data/catalog/product/830/2325_md.jpg",
+    "category": "Eustoma ilə buketlər",
+    "group": "Buketlər"
+  },
+  {
+    "id": 12002,
+    "name": "Eristoma buketi",
+    "code": "000256",
+    "price": 120.0,
+    "img": "https://agciceyim.az/data/catalog/product/825/2312_md.jpg",
+    "category": "Eustoma ilə buketlər",
+    "group": "Buketlər"
+  },
+  {
+    "id": 12003,
+    "name": "Eristoma buketi",
+    "code": "000255",
+    "price": 250.0,
+    "img": "https://agciceyim.az/data/catalog/product/824/2311_md.jpg",
+    "category": "Eustoma ilə buketlər",
+    "group": "Buketlər"
+  },
+    {
+    "id": 13001,
+    "name": "Xrizantema buketi",
+    "code": "6787",
+    "price": 50.0,
+    "img": "https://agciceyim.az/data/catalog/product/777/2255_md.jpg",
+    "category": "Xrizantema ilə buketlər",
+    "group": "Buketlər"
+  },
+  {
+    "id": 14001,
+    "name": "101 Jumilia",
+    "code": null,
+    "priceOld": 500.0,
+    "price": 400.0,
+    "img": "https://agciceyim.az/data/catalog/product/799/2281_md.jpg",
+    "category": "101 qızılgül buketləri",
+    "group": "Buketlər"
+  },
+  {
+    "id": 14002,
+    "name": "101 qızılgül Fiesta",
+    "code": "6565",
+    "price": 600.0,
+    "img": "https://agciceyim.az/data/catalog/product/687/2105_md.jpg",
+    "category": "101 qızılgül buketləri",
+    "group": "Buketlər"
+  },
+  {
+    "id": 14003,
+    "name": "101 qızılgül bahar qarışığı",
+    "code": "6464",
+    "price": 600.0,
+    "img": "https://agciceyim.az/data/catalog/product/686/2101_md.jpg",
+    "category": "101 qızılgül buketləri",
+    "group": "Buketlər"
+  },
+  {
+    "id": 14004,
+    "name": "101 mini qızılgül qarışığı",
+    "code": "6262",
+    "priceOld": 600.0,
+    "price": 500.0,
+    "img": "https://agciceyim.az/data/catalog/product/684/2095_md.jpg",
+    "category": "101 qızılgül buketləri",
+    "group": "Buketlər"
+  },
+   {
+    "id": 14005,
+    "name": "101 ağ qızılgül Mondial",
+    "code": "7070",
+    "price": 600.0,
+    "img": "https://agciceyim.az/data/catalog/product/683/2091_md.jpg",
+    "category": "101 qızılgül buketləri",
+    "group": "Buketlər"
+  },
+  {
+    "id": 14006,
+    "name": "101 qızılgül parlaq qarışıq",
+    "code": "7171",
+    "priceOld": 600.0,
+    "price": 500.0,
+    "img": "https://agciceyim.az/data/catalog/product/682/2085_md.jpg",
+    "category": "101 qızılgül buketləri",
+    "group": "Buketlər"
+  },
+  {
+    "id": 14007,
+    "name": "101 qızılgül Hava qarışığı",
+    "code": "7575",
+    "priceOld": 600.0,
+    "price": 500.0,
+    "img": "https://agciceyim.az/data/catalog/product/679/2072_md.jpg",
+    "category": "101 qızılgül buketləri",
+    "group": "Buketlər"
+  },
+  {
+    "id": 14008,
+    "name": "101 qızılgül qarışığı",
+    "code": "7676",
+    "priceOld": 600.0,
+    "price": 500.0,
+    "img": "https://agciceyim.az/data/catalog/product/678/2068_md.jpg",
+    "category": "101 qızılgül buketləri",
+    "group": "Buketlər"
+  },
+  {
+    "id": 14009,
+    "name": "101 Yasəməni Qızılgül",
+    "code": "5006",
+    "price": 600.0,
+    "img": "https://agciceyim.az/data/catalog/product/82/185_md.jpg",
+    "category": "101 qızılgül buketləri",
+    "group": "Buketlər"
+  }
+],
+   "Gulbuketleri":[
+  {
+    "id": 15001,
+    "name": "19 Mavi qızılgül buketi",
+    "code": "444",
+    "price": 152.0,
+    "img": "https://agciceyim.az/data/catalog/product/744/2202_md.jpg",
+    "category": "21 əd qızılgül buketləri",
+    "group": "Gül buketləri"
+  },
+  {
+    "id": 15002,
+    "name": "21 qızılgül pion formalı",
+    "code": "7272",
+    "price": 126.0,
+    "img": "https://agciceyim.az/data/catalog/product/653/1963_md.jpg",
+    "category": "21 əd qızılgül buketləri",
+    "group": "Gül buketləri"
+  },
+  {
+    "id": 15003,
+    "name": "21 qızılgül (Emosiya)",
+    "code": "2121",
+    "price": 126.0,
+    "img": "https://agciceyim.az/data/catalog/product/652/1961_md.jpg",
+    "category": "21 əd qızılgül buketləri",
+    "group": "Gül buketləri"
+  },
+  {
+    "id": 15004,
+    "name": "21 qızılgül (Barracuda)",
+    "code": "5656",
+    "price": 126.0,
+    "img": "https://agciceyim.az/data/catalog/product/651/1957_md.jpg",
+    "category": "21 əd qızılgül buketləri",
+    "group": "Gül buketləri"
+  },
+  {
+    "id": 15005,
+    "name": "21 qızılgül (Boulevard)",
+    "code": "7878",
+    "price": 126.0,
+    "img": "https://agciceyim.az/data/catalog/product/647/1942_md.jpg",
+    "category": "21 əd qızılgül buketləri",
+    "group": "Gül buketləri"
+  },
+  
+  {
+    "id": 15001,
+    "name": "51 qızılgül Çəhrayı və Ağ Qarışıq",
+    "code": "5959",
+    "priceOld": 306.0,
+    "price": 255.0,
+    "img": "https://agciceyim.az/data/catalog/product/664/2008_md.jpg",
+    "category": "51 əd qızılgül buketləri",
+    "group": "Gül buketləri"
+  },
+  {
+    "id": 15002,
+    "name": "51 qızılgül qarışığı",
+    "code": "5858",
+    "priceOld": 306.0,
+    "price": 255.0,
+    "img": "https://agciceyim.az/data/catalog/product/663/2005_md.jpg",
+    "category": "51 əd qızılgül buketləri",
+    "group": "Gül buketləri"
+  },
+  {
+    "id": 15003,
+    "name": "51 qızılgül qarışığı",
+    "code": "5757",
+    "priceOld": 306.0,
+    "price": 255.0,
+    "img": "https://agciceyim.az/data/catalog/product/662/2000_md.jpg",
+    "category": "51 əd qızılgül buketləri",
+    "group": "Gül buketləri"
+  },
+  {
+    "id": 15004,
+    "name": "51 ağ və qırmızı qızılgül",
+    "code": "5353",
+    "priceOld": 306.0,
+    "price": 255.0,
+    "img": "https://agciceyim.az/data/catalog/product/661/1997_md.jpg",
+    "category": "51 əd qızılgül buketləri",
+    "group": "Gül buketləri"
+  },
+  {
+    "id": 15005,
+    "name": "51 Qızılgül Tünd Bənövşəyi",
+    "code": "2323",
+    "priceOld": 306.0,
+    "price": 255.0,
+    "img": "https://agciceyim.az/data/catalog/product/659/1990_md.jpg",
+    "category": "51 əd qızılgül buketləri",
+    "group": "Gül buketləri"
+  },
+  {
+    "id": 15006,
+    "name": "51 qızılgül (Marbella)",
+    "code": "3232",
+    "priceOld": 306.0,
+    "price": 255.0,
+    "img": "https://agciceyim.az/data/catalog/product/658/1984_md.jpg",
+    "category": "51 əd qızılgül buketləri",
+    "group": "Gül buketləri"
+  },
+  {
+    "id": 15007,
+    "name": "51 qırmızı qızılgül (El Toro)",
+    "code": "1111",
+    "priceOld": 306.0,
+    "price": 255.0,
+    "img": "https://agciceyim.az/data/catalog/product/655/1971_md.jpg",
+    "category": "51 əd qızılgül buketləri",
+    "group": "Gül buketləri"
+  },
+
+  
+  {
+    "id": 14010,
+    "name": "101 kol qızılgülü buketi",
+    "code": "9999",
+    "price": 500.0,
+    "img": "https://agciceyim.az/data/catalog/product/734/2178_md.jpg",
+    "category": "101 əd qızılgül buketləri",
+    "group": "Gül buketləri"
+  },
+  {
+    "id": 14011,
+    "name": "101 ağ qızılgül Premium",
+    "code": "4141",
+    "price": 600.0,
+    "img": "https://agciceyim.az/data/catalog/product/676/2061_md.jpg",
+    "category": "101 əd qızılgül buketləri",
+    "group": "Gül buketləri"
+  },
+  {
+    "id": 14012,
+    "name": "101 mini qızılgül qırmızı",
+    "code": "4343",
+    "priceOld": 600.0,
+    "price": 500.0,
+    "img": "https://agciceyim.az/data/catalog/product/674/2055_md.jpg",
+    "category": "101 əd qızılgül buketləri",
+    "group": "Gül buketləri"
+  },
+  {
+    "id": 14013,
+    "name": "101 portağal (Bermud) qızılgülü",
+    "code": "4747",
+    "priceOld": 600.0,
+    "price": 500.0,
+    "img": "https://agciceyim.az/data/catalog/product/671/2041_md.jpg",
+    "category": "101 əd qızılgül buketləri",
+    "group": "Gül buketləri"
+  },
+  {
+    "id": 14014,
+    "name": "101 qızılgül Çəhrayı qarışığı",
+    "code": "4949",
+    "priceOld": 600.0,
+    "price": 500.0,
+    "img": "https://agciceyim.az/data/catalog/product/669/2029_md.jpg",
+    "category": "101 əd qızılgül buketləri",
+    "group": "Gül buketləri"
+  },
+  {
+    "id": 14015,
+    "name": "101 qızılgül qarışığı Premium",
+    "code": "5050",
+    "priceOld": 600.0,
+    "price": 500.0,
+    "img": "https://agciceyim.az/data/catalog/product/668/2024_md.jpg",
+    "category": "101 əd qızılgül buketləri",
+    "group": "Gül buketləri"
+  },
+  {
+    "id": 14016,
+    "name": "101 çəhrayı qızılgül (Titanik)",
+    "code": "5252",
+    "priceOld": 600.0,
+    "price": 590.0,
+    "img": "https://agciceyim.az/data/catalog/product/667/2021_md.jpg",
+    "category": "101 əd qızılgül buketləri",
+    "group": "Gül buketləri"
+  }
+],
+ "Buketlər":[
+  {
+    "id": 15001,
+    "name": "Mix buket",
+    "code": "000123",
+    "price": 300.0,
+    "img": "https://agciceyim.az/data/catalog/product/739/2196_md.jpg",
+    "category": "Mix buketlər",
+    "group": "Buketlər"
+  },
+  {
+    "id": 15002,
+    "name": "Qırmızı ürək kompozisiya",
+    "code": "9004",
+    "price": 700.0,
+    "img": "https://agciceyim.az/data/catalog/product/616/1834_md.jpg",
+    "category": "Mix buketlər",
+    "group": "Buketlər"
+  },
+  {
+    "id": 15003,
+    "name": "Eleqant Buket",
+    "code": "1058",
+    "price": 380.0,
+    "img": "https://agciceyim.az/data/catalog/product/607/1806_md.jpg",
+    "category": "Mix buketlər",
+    "group": "Buketlər"
+  },
+  {
+    "id": 15004,
+    "name": "Xüsusi açılma ağ roza",
+    "code": null,
+    "price": 250.0,
+    "img": "https://agciceyim.az/data/catalog/product/596/1762_md.jpg",
+    "category": "Mix buketlər",
+    "group": "Buketlər"
+  },
+  {
+    "id": 15005,
+    "name": "Mix Buket",
+    "code": "1053",
+    "price": 180.0,
+    "img": "https://agciceyim.az/data/catalog/product/592/1751_md.jpg",
+    "category": "Mix buketlər",
+    "group": "Buketlər"
+  },
+  {
+    "id": 15006,
+    "name": "Çobanyastığlı Buket",
+    "code": "1049",
+    "priceOld": 105.0,
+    "price": 95.0,
+    "img": "https://agciceyim.az/data/catalog/product/586/1723_md.jpg",
+    "category": "Mix buketlər",
+    "group": "Buketlər"
+  },
+  {
+    "id": 15007,
+    "name": "Mix Buket",
+    "code": "1048",
+    "price": 170.0,
+    "img": "https://agciceyim.az/data/catalog/product/585/1718_md.jpg",
+    "category": "Mix buketlər",
+    "group": "Buketlər"
+  },
+  {
+    "id": 15008,
+    "name": "Qarışıq Güllərdən Buket",
+    "code": "1037",
+    "price": 500.0,
+    "img": "https://agciceyim.az/data/catalog/product/567/1611_md.jpg",
+    "category": "Mix buketlər",
+    "group": "Buketlər"
+  },
+  {
+    "id": 15009,
+    "name": "Narıncı Gül Buketi",
+    "code": "1036",
+    "price": 85.0,
+    "img": "https://agciceyim.az/data/catalog/product/563/1599_md.jpg",
+    "category": "Mix buketlər",
+    "group": "Buketlər"
+  },
+  {
+    "id": 15010,
+    "name": "Yığma Gül Buketi",
+    "code": "1034",
+    "price": 160.0,
+    "img": "https://agciceyim.az/data/catalog/product/516/1440_md.jpg",
+    "category": "Mix buketlər",
+    "group": "Buketlər"
+  },
+  {
+    "id": 15011,
+    "name": "Mix Buket",
+    "code": "1032",
+    "price": 250.0,
+    "img": "https://agciceyim.az/data/catalog/product/500/1382_md.jpg",
+    "category": "Mix buketlər",
+    "group": "Buketlər"
+  },
+  {
+    "id": 15012,
+    "name": "Mix Buket",
+    "code": "1026",
+    "price": 85.0,
+    "img": "https://agciceyim.az/data/catalog/product/435/1168_md.jpg",
+    "category": "Mix buketlər",
+    "group": "Buketlər"
+  },
+  {
+    "id": 15013,
+    "name": "Mix Buket",
+    "code": "1022",
+    "priceOld": 130.0,
+    "price": 120.0,
+    "img": "https://agciceyim.az/data/catalog/product/382/981_md.jpg",
+    "category": "Mix buketlər",
+    "group": "Buketlər"
+  },
+  {
+    "id": 18001,
+    "name": "Mavi Qortenziyalar",
+    "code": "2036",
+    "price": 90.0,
+    "img": "https://agciceyim.az/data/catalog/product/347/862_md.jpg",
+    "category": "Mono Buketlər",
+    "group": "Buketlər"
+  },
+  {
+    "id": 19001,
+    "name": "Gəlin Buketi",
+    "code": "109",
+    "price": 110.0,
+    "img": "https://agciceyim.az/data/catalog/product/338/839_md.jpg",
+    "category": "Gəlin buketi",
+    "group": "Buketlər"
+  },
+  {
+    "id": 19002,
+    "name": "Gəlin Buketi",
+    "code": "107",
+    "price": 120.0,
+    "img": "https://agciceyim.az/data/catalog/product/336/834_md.jpg",
+    "category": "Gəlin buketi",
+    "group": "Buketlər"
+  },
+  {
+    "id": 19003,
+    "name": "Gəlin Buketi",
+    "code": "103",
+    "price": 150.0,
+    "img": "https://agciceyim.az/data/catalog/product/332/819_md.jpg",
+    "category": "Gəlin buketi",
+    "group": "Buketlər"
+  }
+], 
+ "Qızılgül":[
+  {
+    "id": 16001,
+    "name": "Buket mix 9007",
+    "code": "9007",
+    "price": 125.0,
+    "img": "https://agciceyim.az/data/catalog/product/620/1845_md.jpg",
+    "category": "Qızılgül buketi",
+    "group": "Buketlər"
+  },
+  {
+    "id": 16002,
+    "name": "101 Qırmızı Qızılgüllər",
+    "code": "5100",
+    "priceOld": 630.0,
+    "price": 530.0,
+    "img": "https://agciceyim.az/data/catalog/product/564/1602_md.jpg",
+    "category": "Qızılgül buketi",
+    "group": "Buketlər"
+  },
+  {
+    "id": 16003,
+    "name": "Qızılgül və Gipsofila",
+    "code": "5093",
+    "price": 330.0,
+    "img": "https://agciceyim.az/data/catalog/product/534/1499_md.jpg",
+    "category": "Qızılgül buketi",
+    "group": "Buketlər"
+  },
+  {
+    "id": 16004,
+    "name": "7 Çəhrayı Qızılgül",
+    "code": "5092",
+    "price": 60.0,
+    "img": "https://agciceyim.az/data/catalog/product/530/1486_md.jpg",
+    "category": "Qızılgül buketi",
+    "group": "Buketlər"
+  },
+  {
+    "id": 16005,
+    "name": "7 Ağ Qızılgül",
+    "code": "5091",
+    "price": 55.0,
+    "img": "https://agciceyim.az/data/catalog/product/529/1484_md.jpg",
+    "category": "Qızılgül buketi",
+    "group": "Buketlər"
+  },
+  {
+    "id": 16006,
+    "name": "7 Narıncı Qızılgül",
+    "code": "5090",
+    "price": 60.0,
+    "img": "https://agciceyim.az/data/catalog/product/528/1482_md.jpg",
+    "category": "Qızılgül buketi",
+    "group": "Buketlər"
+  },
+  {
+    "id": 16007,
+    "name": "25 Qızılgül",
+    "code": "5075",
+    "price": 150.0,
+    "img": "https://agciceyim.az/data/catalog/product/505/1402_md.jpg",
+    "category": "Qızılgül buketi",
+    "group": "Buketlər"
+  },
+  {
+    "id": 16008,
+    "name": "25 Qırmızı Qızılgül",
+    "code": "5074",
+    "priceOld": 140.0,
+    "price": 130.0,
+    "img": "https://agciceyim.az/data/catalog/product/504/1398_md.jpg",
+    "category": "Qızılgül buketi",
+    "group": "Buketlər"
+  },
+  {
+    "id": 16009,
+    "name": "101 Çəhrayı Qızılgül",
+    "code": "5073",
+    "priceOld": 600.0,
+    "price": 500.0,
+    "img": "https://agciceyim.az/data/catalog/product/503/1394_md.jpg",
+    "category": "Qızılgül buketi",
+    "group": "Buketlər"
+  },
+   {
+    "id": 17001,
+    "name": "Qutuda Qızılgül",
+    "code": "5058",
+    "price": 140.0,
+    "img": "https://agciceyim.az/data/catalog/product/303/738_md.jpg",
+    "category": "Qızılgül qutuda",
+    "group": "Qızılgüllər"
+  },
+  {
+    "id": 17002,
+    "name": "Qutuda Qızılgül",
+    "code": "5055",
+    "price": 140.0,
+    "img": "https://agciceyim.az/data/catalog/product/300/731_md.jpg",
+    "category": "Qızılgül qutuda",
+    "group": "Qızılgüllər"
+  },
+  {
+    "id": 17003,
+    "name": "Kompozisiya",
+    "code": "5045",
+    "price": 1250.0,
+    "img": "https://agciceyim.az/data/catalog/product/276/663_md.jpg",
+    "category": "Qızılgül qutuda",
+    "group": "Qızılgüllər"
+  }
+],
+  "Kompozisiya":[
+  {
+    "id": 20001,
+    "name": "Ana üçün kompozisiya",
+    "code": "0888",
+    "price": 450.0,
+    "img": "https://agciceyim.az/data/catalog/product/821/2307_md.jpg",
+    "category": "Kompozisiya",
+    "group": "Kompozisiyalar"
+  },
+  {
+    "id": 20002,
+    "name": "Türk əklili",
+    "code": null,
+    "priceOld": 600.0,
+    "price": 550.0,
+    "img": "https://agciceyim.az/data/catalog/product/804/2286_md.jpg",
+    "category": "Kompozisiya",
+    "group": "Kompozisiyalar"
+  },
+  {
+    "id": 20003,
+    "name": "Rəngarəng Güllər",
+    "code": "1021",
+    "price": 480.0,
+    "img": "https://agciceyim.az/data/catalog/product/490/1346_md.jpg",
+    "category": "Kompozisiya",
+    "group": "Kompozisiyalar"
+  },
+   {
+    "id": 21001,
+    "name": "101 kol qızılgülü səbətdə",
+    "code": "999",
+    "priceOld": 700.0,
+    "price": 550.0,
+    "img": "https://agciceyim.az/data/catalog/product/741/2199_md.jpg",
+    "category": "Səbət və Yeşik",
+    "group": "Kompozisiyalar"
+  },
+  {
+    "id": 21002,
+    "name": "Özəl Hədiyyə",
+    "code": "2029",
+    "priceOld": 1500.0,
+    "price": 1400.0,
+    "img": "https://agciceyim.az/data/catalog/product/629/1878_md.png",
+    "category": "Səbət və Yeşik",
+    "group": "Kompozisiyalar"
+  },
+  {
+    "id": 21003,
+    "name": "Ad yazılı buket",
+    "code": "5101",
+    "price": 180.0,
+    "img": "https://agciceyim.az/data/catalog/product/578/1669_md.jpg",
+    "category": "Səbət və Yeşik",
+    "group": "Kompozisiyalar"
+  },
+  {
+    "id": 22001,
+    "name": "Anturiumlar",
+    "code": "102",
+    "price": 320.0,
+    "img": "https://agciceyim.az/data/catalog/product/605/1799_md.jpg",
+    "category": "Vazada",
+    "group": "Kompozisiyalar"
+  }
+],
+ "gift":[
+  {
+  "id": 30001,
+  "name": "Ferrero Rocher 300qr",
+  "code": "FR300",
+  "price": 50.0,
+  "img": "https://agciceyim.az/data/catalog/product/507/1406_md.jpg",
+  "category": "Şirniyyatlar",
+  "group": "Hədiyyə"
+},
+ {
+  "id": 30002,
+  "name": "Teddy ayı yumşaq oyuncaq",
+  "code": "TOY450",
+  "price": 450.0,
+  "img": "https://agciceyim.az/data/catalog/product/792/2274_md.jpg",
+  "category": "Yumşaq Oyuncaqlar",
+  "group": "Hədiyyə"
+},
+{
+  "id": 30003,
+  "name": "Ürək formalı şarlar - 10 əd.",
+  "code": "BAL100",
+  "price": 100.0,
+  "img": "https://agciceyim.az/data/catalog/product/498/1375_md.jpg",
+  "category": "Şarlar",
+  "group": "Hədiyyə"
+},
+ {
+    "id": 40001,
+    "name": "Meyvə səbəti mix",
+    "code": "002256",
+    "price": 350.0,
+    "img": "https://agciceyim.az/data/catalog/product/820/2306_md.jpg",
+    "category": "Yeməli Buketlər",
+    "group": "Hədiyyə"
+  },
+  {
+    "id": 40002,
+    "name": "Şokolad buketi",
+    "code": "0002",
+    "price": 140.0,
+    "old_price": 150.0,
+    "img": "https://agciceyim.az/data/catalog/product/815/2300_md.jpg",
+    "category": "Yeməli Buketlər",
+    "group": "Hədiyyə"
+  }
+ ],
+ "Bitki":[
+  {
+    "id": 50001,
+    "name": "Orxideya Falenopsis Morelia",
+    "code": "",
+    "price": 60.0,
+    "old_price": 70.0,
+    "img": "https://agciceyim.az/data/catalog/product/441/1189_md.jpg",
+    "category": "Otaq bitkiləri",
+    "group": "Bitkilər"
+  },
+  {
+    "id": 50002,
+    "name": "Anturium",
+    "code": "",
+    "price": 65.0,
+    "img": "https://agciceyim.az/data/catalog/product/353/881_md.jpg",
+    "category": "Otaq bitkiləri",
+    "group": "Bitkilər"
+  }
+  ],
+  "xususigunler":[
+    {
+  "id": 60001,
+  "name": "Sevgililər günü",
+  "code": "0055",
+  "price": 600.0,
+  "img": "https://agciceyim.az/data/catalog/product/754/2215_md.jpeg",
+  "category": "Valentin Günü",
+  "group": "Xüsusi Günlər"
+},
+{
+  "id": 80001,
+  "name": "Mövsümə uyğun qarışım buketi",
+  "code": "63633",
+  "price": 180.0,
+  "img": "https://agciceyim.az/data/catalog/product/796/2278_md.jpg",
+  "category": "8 Mart",
+  "group": "Xüsusi Günlər"
+}
+
+],
+"acsesuarlar":[
+{
+  "id": 90001,
+  "name": "Maşın bantı 22",
+  "code": "2177",
+  "price": 200.0,
+  "img": "https://agciceyim.az/data/catalog/product/733/2177_md.jpg",
+  "category": "Aksesuarlar",
+  "group": "Bəzəklər"
+}
+
+
+  
+],
+
+"category": [
+  {
+    "id": 201,
+    "category": "Buketlər",
+    "slug": "buketler"
+  },
+  {
+    "id": 202,
+    "category": "Gül Buketləri",
+    "slug": "gul-buketleri"
+  },
+  {
+    "id": 203,
+    "category": "Qızılgül",
+    "slug": "qizilgul"
+  },
+  {
+    "id": 204,
+    "category": "Kompozisiya",
+    "slug": "kompozisiya"
+  },
+  {
+    "id": 205,
+    "category": "Hədiyyə",
+    "slug": "hediyye"
+  },
+  {
+    "id": 206,
+    "category": "Bitki",
+    "slug": "bitki"
+  },
+  {
+    "id": 207,
+    "category": "Səbəb",
+    "slug": "sebeb"
+  },
+  {
+    "id": 208,
+    "category": "Yeni İl",
+    "slug": "yeni-il"
+  },
+  {
+    "id": 209,
+    "category": "Endirimlər",
+    "slug": "endirimler"
+  },
+  {
+    "id": 210,
+    "category": "Buket Yarat",
+    "slug": "buket-yarat"
+  },
+  {
+    "id": 211,
+    "category": "Sifariş Statusu",
+    "slug": "sifaris-statusu"
+  }
+],
+
+ "users": [
     {
       "id": 1,
-      "date": "2019-12-01",
-      "description": "Paycheck from Bob's Burgers",
-      "category": "Income",
-      "amount": 1000
-    },
-    {
-      "id": 2,
-      "date": "2019-12-01",
-      "description": "South by Southwest Quinoa Bowl at Fresh & Co",
-      "category": "Food",
-      "amount": -10.55
-    },
-    {
-      "id": 3,
-      "date": "2019-12-02",
-      "description": "South by Southwest Quinoa Bowl at Fresh & Co",
-      "category": "Food",
-      "amount": -10.55
-    },
-    {
-      "id": 4,
-      "date": "2019-12-04",
-      "description": "Sunglasses, Urban Outfitters",
-      "category": "Fashion",
-      "amount": -24.99
-    },
-    {
-      "id": 5,
-      "date": "2019-12-06",
-      "description": "Venmo, Alice Pays you for Burrito",
-      "category": "Food",
-      "amount": 8.75
-    },
-    {
-      "id": 6,
-      "date": "2019-12-06",
-      "description": "Chipotle",
-      "category": "Food",
-      "amount": -17.59
-    },
-    {
-      "id": 7,
-      "date": "2019-12-07",
-      "description": "Birthday Check from Grandma",
-      "category": "Gift",
-      "amount": 50
-    },
-    {
-      "id": 8,
-      "date": "2019-12-09",
-      "description": "Lyft Ride",
-      "category": "Transportation",
-      "amount": -13.25
-    },
-    {
-      "id": 9,
-      "date": "2019-12-11",
-      "description": "Paycheck from Bob's Burgers",
-      "category": "Income",
-      "amount": 1000
-    },
-    {
-      "id": 10,
-      "date": "2019-12-16",
-      "description": "Tickets, Flatiron Multiplex Cinemas",
-      "category": "Entertainment",
-      "amount": -24
-    },
-    {
-      "id": 11,
-      "date": "2019-12-16",
-      "description": "MTA Vending Machine: MetroCard",
-      "category": "Transportation",
-      "amount": -116.39
-    },
-    {
-      "id": 12,
-      "date": "2019-12-17",
-      "description": "Venmo, Pay Roommate for Rent",
-      "category": "Housing",
-      "amount": -975
-    },
-    {
-      "date": "2022-07-09",
-      "description": "Office lunch",
-      "category": "Food",
-      "amount": "2000",
-      "id": 13
-    },
-    {
-      "date": "2022-07-09",
-      "description": "Office lunch Wednesday",
-      "category": "Food",
-      "amount": "3000",
-      "id": 14
+      "firstName": "Admin",
+      "lastName": "User",
+      "email": "admin@example.com",
+      "phone": "+994501234567",
+      "password": "Admin123!",
+      "role": "super_admin",
+      "createdAt": "2025-01-01T00:00:00.000Z",
+      "isActive": true,
+      "lastLogin": null
     }
   ]
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 }
