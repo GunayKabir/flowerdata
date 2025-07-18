@@ -1,5 +1,5 @@
  {
-  "BUKETLƏR": [
+  "buketler": [
 {
     "id": 20101,
     "name": "9 qızılgül buketi",
@@ -32,7 +32,7 @@
     "name": "Kol qızılgülləri qutuda",
     "code": "0068",
     "price": 85.0,
-    "img": "",
+    "img": "https://agciceyim.az/data/catalog/product/762/2224_md.jpg",
     "category": "Qızılgül qutuda",
     "group": "Buketlər"
   },
@@ -203,16 +203,7 @@
     "category": "Xrizantema ilə buketlər",
     "group": "Buketlər"
   },
-  {
-    "id": 14001,
-    "name": "101 Jumilia",
-    "code": null,
-    "priceOld": 500.0,
-    "price": 400.0,
-    "img": "https://agciceyim.az/data/catalog/product/799/2281_md.jpg",
-    "category": "101 qızılgül buketləri",
-    "group": "Buketlər"
-  },
+  
   {
     "id": 14002,
     "name": "101 qızılgül Fiesta",
@@ -291,34 +282,8 @@
   }
 ],
    "Gulbuketleri":[
-  {
-    "id": 15001,
-    "name": "19 Mavi qızılgül buketi",
-    "code": "444",
-    "price": 152.0,
-    "img": "https://agciceyim.az/data/catalog/product/744/2202_md.jpg",
-    "category": "21 əd qızılgül buketləri",
-    "group": "Gül buketləri"
-  },
-  {
-    "id": 15002,
-    "name": "21 qızılgül pion formalı",
-    "code": "7272",
-    "price": 126.0,
-    "img": "https://agciceyim.az/data/catalog/product/653/1963_md.jpg",
-    "category": "21 əd qızılgül buketləri",
-    "group": "Gül buketləri"
-  },
-  {
-    "id": 15003,
-    "name": "21 qızılgül (Emosiya)",
-    "code": "2121",
-    "price": 126.0,
-    "img": "https://agciceyim.az/data/catalog/product/652/1961_md.jpg",
-    "category": "21 əd qızılgül buketləri",
-    "group": "Gül buketləri"
-  },
-  {
+
+ {
     "id": 15004,
     "name": "21 qızılgül (Barracuda)",
     "code": "5656",
@@ -338,7 +303,7 @@
   },
   
   {
-    "id": 15001,
+    "id": 14001,
     "name": "51 qızılgül Çəhrayı və Ağ Qarışıq",
     "code": "5959",
     "priceOld": 306.0,
@@ -348,7 +313,7 @@
     "group": "Gül buketləri"
   },
   {
-    "id": 15002,
+    "id": 14002,
     "name": "51 qızılgül qarışığı",
     "code": "5858",
     "priceOld": 306.0,
@@ -993,26 +958,6 @@
       "lastLogin": null
     }
   ]
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 
 
 
