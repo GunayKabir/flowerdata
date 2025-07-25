@@ -1,14 +1,6 @@
  {
-  "buketler": [
-{
-    "id": 20101,
-    "name": "9 qızılgül buketi",
-    "code": "9997",
-    "price": 65.0,
-    "img": "https://agciceyim.az/data/catalog/product/827/2319_lg.jpg",
-    "category": "Qızılgül buketi",
-    "group": "Buketlər"
-  },
+"product": [
+
   {
     "id": 20102,
     "name": "25 qızılgül",
@@ -279,9 +271,9 @@
     "img": "https://agciceyim.az/data/catalog/product/82/185_md.jpg",
     "category": "101 qızılgül buketləri",
     "group": "Buketlər"
-  }
-],
-   "Gulbuketleri":[
+  },
+
+   
 
  {
     "id": 15004,
@@ -441,9 +433,8 @@
     "img": "https://agciceyim.az/data/catalog/product/667/2021_md.jpg",
     "category": "101 əd qızılgül buketləri",
     "group": "Gül buketləri"
-  }
-],
- "Buketler":[
+  },
+
   {
     "id": 15001,
     "name": "Mix buket",
@@ -598,9 +589,8 @@
     "img": "https://agciceyim.az/data/catalog/product/332/819_md.jpg",
     "category": "Gəlin buketi",
     "group": "Buketlər"
-  }
-], 
- "Qizilgul":[
+  },
+
   {
     "id": 16001,
     "name": "Buket mix 9007",
@@ -711,9 +701,8 @@
     "img": "https://agciceyim.az/data/catalog/product/276/663_md.jpg",
     "category": "Qızılgül qutuda",
     "group": "Qızılgüllər"
-  }
-],
-  "Kompozisiya":[
+  },
+
   {
     "id": 20001,
     "name": "Ana üçün kompozisiya",
@@ -779,9 +768,8 @@
     "img": "https://agciceyim.az/data/catalog/product/605/1799_md.jpg",
     "category": "Vazada",
     "group": "Kompozisiyalar"
-  }
-],
- "gift":[
+  },
+
   {
   "id": 30001,
   "name": "Ferrero Rocher 300qr",
@@ -827,9 +815,8 @@
     "img": "https://agciceyim.az/data/catalog/product/815/2300_md.jpg",
     "category": "Yeməli Buketlər",
     "group": "Hədiyyə"
-  }
- ],
- "Bitki":[
+  },
+ 
   {
     "id": 50001,
     "name": "Orxideya Falenopsis Morelia",
@@ -848,9 +835,8 @@
     "img": "https://agciceyim.az/data/catalog/product/353/881_md.jpg",
     "category": "Otaq bitkiləri",
     "group": "Bitkilər"
-  }
-  ],
-  "xususigunler":[
+  },
+  
     {
   "id": 60001,
   "name": "Sevgililər günü",
@@ -858,7 +844,7 @@
   "price": 600.0,
   "img": "https://agciceyim.az/data/catalog/product/754/2215_md.jpeg",
   "category": "Valentin Günü",
-  "group": "Xüsusi Günlər"
+  "group": "Səbəb"
 },
 {
   "id": 80001,
@@ -867,11 +853,8 @@
   "price": 180.0,
   "img": "https://agciceyim.az/data/catalog/product/796/2278_md.jpg",
   "category": "8 Mart",
-  "group": "Xüsusi Günlər"
-}
-
-],
-"acsesuarlar":[
+  "group": "Səbəb"
+},
 {
   "id": 90001,
   "name": "Maşın bantı 22",
@@ -879,8 +862,9 @@
   "price": 200.0,
   "img": "https://agciceyim.az/data/catalog/product/733/2177_md.jpg",
   "category": "Aksesuarlar",
-  "group": "Bəzəklər"
+  "group": "Yeni il"
 }
+
 
 
   
