@@ -709,7 +709,7 @@
     "code": "0888",
     "price": 450.0,
     "img": "https://agciceyim.az/data/catalog/product/821/2307_md.jpg",
-    "category": "Kompozisiya",
+    "category": "Qutuda güllər",
     "group": "Kompozisiyalar"
   },
   {
@@ -719,7 +719,7 @@
     "priceOld": 600.0,
     "price": 550.0,
     "img": "https://agciceyim.az/data/catalog/product/804/2286_md.jpg",
-    "category": "Kompozisiya",
+    "category": "Qutuda güllər",
     "group": "Kompozisiyalar"
   },
   {
@@ -728,7 +728,7 @@
     "code": "1021",
     "price": 480.0,
     "img": "https://agciceyim.az/data/catalog/product/490/1346_md.jpg",
-    "category": "Kompozisiya",
+    "category": "Qutuda güllər",
     "group": "Kompozisiyalar"
   },
    {
@@ -991,8 +991,8 @@
     "name": "Qızılgül",
     "slug": "qizilgul",
     "children": [
-      { "id": 301, "name": "Qızılgül buketi", "slug": "qizilgul-buketi" },
-      { "id": 302, "name": "Qızılgül qutuda", "slug": "qizilgul-qutuda" }
+      { "id": 301, "name": "Qızılgül buketi", "slug": "Qızılgül buketi" },
+      { "id": 302, "name": "Qızılgül qutuda", "slug":"Qızılgül qutuda" }
     ]
   },
   {
@@ -1000,10 +1000,10 @@
     "name": "Kompozisiya",
     "slug": "kompozisiya",
     "children": [
-      { "id": 401, "name": "Qutuda güllər", "slug": "qutuda-guller" },
-      { "id": 402, "name": "Səbət və Yeşik", "slug": "sebet-ve-yesik" },
+      { "id": 401, "name": "Qutuda güllər", "slug": "Qutuda güllər" },
+      { "id": 402, "name": "Səbət və Yeşik", "slug": "Səbət və Yeşik" },
       { "id": 403, "name": "Güldən yazılar", "slug": "gulden-yazilar" },
-      { "id": 404, "name": "Vazada", "slug": "vazada" }
+      { "id": 404, "name": "Vazada", "slug": "Vazada" }
     ]
   },
   {
@@ -1011,10 +1011,10 @@
     "name": "Hədiyyə",
     "slug": "hediyye",
     "children": [
-      { "id": 501, "name": "Şirniyyatlar", "slug": "sirniyyatlar" },
-      { "id": 502, "name": "Yumşaq Oyuncaqlar", "slug": "yumsag-oyuncaqlar" },
-      { "id": 503, "name": "Şarlar", "slug": "sarlar" },
-      { "id": 504, "name": "Yeməli Buketlər", "slug": "yemeli-buketler" },
+      { "id": 501, "name": "Şirniyyatlar", "slug": "Şirniyyatlar" },
+      { "id": 502, "name": "Yumşaq Oyuncaqlar", "slug": "Yumşaq Oyuncaqlar" },
+      { "id": 503, "name": "Şarlar", "slug": "Şarlar" },
+      { "id": 504, "name": "Yeməli Buketlər", "slug": "Yeməli Buketlər" },
       { "id": 505, "name": "Tortlar", "slug": "tortlar" }
     ]
   },
@@ -1023,7 +1023,7 @@
     "name": "Bitki",
     "slug": "bitki",
     "children": [
-      { "id": 601, "name": "Otaq bitkiləri", "slug": "otaq-bitkileri" }
+      { "id": 601, "name": "Otaq bitkiləri", "slug": "Otaq bitkiləri" }
     ]
   },
   {
@@ -1031,8 +1031,8 @@
     "name": "Səbəb",
     "slug": "sebeb",
     "children": [
-      { "id": 701, "name": "Valentin Günü", "slug": "valentin-gunu" },
-      { "id": 702, "name": "8 Mart", "slug": "8-mart" },
+      { "id": 701, "name": "Valentin Günü", "slug": "Valentin Günü" },
+      { "id": 702, "name": "8 Mart", "slug": "8 Mart" },
       { "id": 703, "name": "Novruz Bayramı", "slug": "novruz-bayrami" },
       { "id": 704, "name": "Ramazan", "slug": "ramazan" }
     ]
@@ -1044,7 +1044,7 @@
     "children": [
       { "id": 801, "name": "Şam ağacları", "slug": "sam-agaclari" },
       { "id": 802, "name": "Yeni il dekoru", "slug": "yeni-il-dekoru" },
-      { "id": 803, "name": "Aksesuarlar", "slug": "aksesuarlar" },
+      { "id": 803, "name": "Aksesuarlar", "slug": "Aksesuarlar" },
       { "id": 804, "name": "Yeni il kompozisiyalar", "slug": "yeni-il-kompozisiyalar" }
     ]
   },
