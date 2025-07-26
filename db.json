@@ -6,8 +6,8 @@
     "name": "25 qızılgül",
     "code": "4561",
     "price": 130.0,
-    "img": "https://agciceyim.az/data/catalog/product/762/2224_md.jpg",
-    "category": "Qızılgül buketi",
+    "img":"https://agciceyim.az/data/catalog/product/762/2224_md.jpg",
+   "category": "Qızılgüllər",
     "group": "Buketlər"
   },
   {
@@ -16,7 +16,7 @@
     "code": null,
     "price": 500.0,
     "img": "https://agciceyim.az/data/catalog/product/696/2124_md.jpeg",
-    "category": "Qızılgül buketi",
+    "category": "Qızılgüllər",
     "group": "Buketlər"
   },
   {
@@ -25,7 +25,7 @@
     "code": "0068",
     "price": 85.0,
     "img": "https://agciceyim.az/data/catalog/product/762/2224_md.jpg",
-    "category": "Qızılgül qutuda",
+    "category": "Qızılgüllər",
     "group": "Buketlər"
   },
   {
