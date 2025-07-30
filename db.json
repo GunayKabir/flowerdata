@@ -8,7 +8,8 @@
     "price": 130.0,
     "img":"https://agciceyim.az/data/catalog/product/762/2224_md.jpg",
    "category": "Qızılgüllər",
-    "group": "Buketlər"
+    "group": "Buketlər",
+   "description":"25 qızılgül"
   },
   {
     "id": 20103,
@@ -18,6 +19,8 @@
     "img": "https://agciceyim.az/data/catalog/product/696/2124_md.jpeg",
     "category": "Qızılgüllər",
     "group": "Buketlər"
+    "description":"100-120 ədəd qızılgül.Əklilin üzəri üçün olan yazını sifariş zamanı Qeyd bölməsində və ya ana səhifədə qeyd olunan nömrəyə qeyd edə bilərsiniz."
+   
   },
   {
     "id": 20201,
@@ -27,6 +30,7 @@
     "img": "https://agciceyim.az/data/catalog/product/762/2224_md.jpg",
     "category": "Qızılgüllər",
     "group": "Buketlər"
+   "description":"kol qızılgülü,dekortiv otlar. Buketin tərkibindəki güllər digər kol qızılgüllərinin eyni rəngi ilə əvəz oluna bilər."
   },
   {
     "id": 10301,
@@ -37,6 +41,7 @@
     "img": "https://agciceyim.az/data/catalog/product/690/2114_md.jpg",
     "category": "Pion",
     "group": "Buketlər"
+     "description":" Pion və evkalip. Rəng dəyişimi ağ rəng ilə əvəz edilə bilər."
   },
   {
     "id": 10401,
@@ -47,6 +52,7 @@
     "img": "https://agciceyim.az/data/catalog/product/766/2238_md.jpeg",
     "category": "Pion qızılgülləri",
     "group": "Buketlər"
+    "description":"qızılgül,lefko,tülpan,hortenziya"
   },
   {
     "id": 10402,
@@ -56,6 +62,7 @@
     "img": "https://agciceyim.az/data/catalog/product/763/2225_md.jpg",
     "category": "Pion qızılgülləri",
     "group": "Buketlər"
+    "description":"Mövsümə uyğun güllərin qarışımı (rəng tonları uyğunlaşdırılmış şəkildə)"
   },
   {
     "id": 10501,
@@ -65,6 +72,7 @@
     "img": "https://agciceyim.az/data/catalog/product/826/2318_md.jpeg",
     "category": "Ortancalar",
     "group": "Buketlər"
+    "description":"hortenziya"
   },
   {
     "id": 10502,
@@ -74,6 +82,7 @@
     "img": "https://agciceyim.az/data/catalog/product/798/2280_md.jpg",
     "category": "Ortancalar",
     "group": "Buketlər"
+     "description":"Mövsümə uyğun qarışıq miks güllər."
   },
   {
     "id": 10503,
@@ -84,16 +93,9 @@
     "img": "https://agciceyim.az/data/catalog/product/794/2276_md.jpg",
     "category": "Ortancalar",
     "group": "Buketlər"
+    "description":"hortenziya və dekorativ otlar"
   },
-  {
-    "id": 10504,
-    "name": "Hortenziya buketi",
-    "code": "9457",
-    "price": 220.0,
-    "img": "https://agciceyim.az/data/catalog/product/781/2259_md.jpg",
-    "category": "Ortancalar",
-    "group": "Buketlər"
-  },
+ 
   {
     "id": 10601,
     "name": "Simbidium kompozisiya",
@@ -102,6 +104,7 @@
     "img": "https://agciceyim.az/data/catalog/product/742/2200_md.jpg",
     "category": "Orkide ilə buketlər",
     "group": "Buketlər"
+     "description":"Simbidium 39 ədəd"
   },
   {
     "id": 11001,
@@ -111,6 +114,7 @@
     "img": "https://agciceyim.az/data/catalog/product/831/2326_md.jpg",
     "category": "Papatya ilə buketlər",
     "group": "Buketlər"
+   "description":"Mövsümə uyğun güllərin qarışımı (rəng tonları uyğunlaşdırılmış şəkildə)"
   },
   {
     "id": 11002,
@@ -120,6 +124,7 @@
     "img": "https://agciceyim.az/data/catalog/product/767/2242_md.jpg",
     "category": "Papatya ilə buketlər",
     "group": "Buketlər"
+    "description":"qızılgül,papatya,evkalipt və digər əlavə güllər. Buketin içərisində olan güllərdə mövsümlə əlaqədar olaraq dəyişikliklər ola bilər."
   },
   {
     "id": 11003,
@@ -129,6 +134,7 @@
     "img": "https://agciceyim.az/data/catalog/product/743/2201_md.jpg",
     "category": "Papatya ilə buketlər",
     "group": "Buketlər"
+    "description":" papatya"   
   },
   {
     "id": 11004,
@@ -138,6 +144,7 @@
     "img": "https://agciceyim.az/data/catalog/product/730/2170_md.jpg",
     "category": "Papatya ilə buketlər",
     "group": "Buketlər"
+    "description":"Çəhrayı çobanyastığı"  
   },
   {
     "id": 11005,
@@ -147,6 +154,7 @@
     "img": "https://agciceyim.az/data/catalog/product/705/2204_md.jpg",
     "category": "Papatya ilə buketlər",
     "group": "Buketlər"
+    "description":"101 çobanyastığı"  
   },
   {
     "id": 11006,
@@ -157,6 +165,7 @@
     "img": "https://agciceyim.az/data/catalog/product/704/2134_md.jpg",
     "category": "Papatya ilə buketlər",
     "group": "Buketlər"
+    "description":"Çobanyastığı"  
   },
   
   {
