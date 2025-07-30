@@ -176,6 +176,7 @@
     "img": "https://agciceyim.az/data/catalog/product/830/2325_md.jpg",
     "category": "Eustoma ilə buketlər",
     "group": "Buketlər"
+     "description":"Eristoma"
   },
   {
     "id": 12002,
@@ -185,6 +186,7 @@
     "img": "https://agciceyim.az/data/catalog/product/825/2312_md.jpg",
     "category": "Eustoma ilə buketlər",
     "group": "Buketlər"
+    "description":"Eustoma , qızılgül"
   },
   {
     "id": 12003,
@@ -194,6 +196,7 @@
     "img": "https://agciceyim.az/data/catalog/product/824/2311_md.jpg",
     "category": "Eustoma ilə buketlər",
     "group": "Buketlər"
+     "description":"Eustoma"
   },
     {
     "id": 13001,
@@ -203,6 +206,7 @@
     "img": "https://agciceyim.az/data/catalog/product/777/2255_md.jpg",
     "category": "Xrizantema ilə buketlər",
     "group": "Buketlər"
+      "description":"kol xrizanteması"
   },
   
   {
@@ -213,6 +217,7 @@
     "img": "https://agciceyim.az/data/catalog/product/687/2105_md.jpg",
     "category": "101 qızılgül buketləri",
     "group": "Buketlər"
+     "description":"101 Qızılgül"
   },
   {
     "id": 14003,
@@ -222,6 +227,7 @@
     "img": "https://agciceyim.az/data/catalog/product/686/2101_md.jpg",
     "category": "101 qızılgül buketləri",
     "group": "Buketlər"
+   "description":"qızılgül - 101 əd."
   },
   {
     "id": 14004,
@@ -232,6 +238,7 @@
     "img": "https://agciceyim.az/data/catalog/product/684/2095_md.jpg",
     "category": "101 qızılgül buketləri",
     "group": "Buketlər"
+   "description":"mini qızılgül – 101 əd."
   },
    {
     "id": 14005,
@@ -241,6 +248,7 @@
     "img": "https://agciceyim.az/data/catalog/product/683/2091_md.jpg",
     "category": "101 qızılgül buketləri",
     "group": "Buketlər"
+    "description":"mini qızılgül – 101 əd."
   },
   {
     "id": 14006,
@@ -251,6 +259,7 @@
     "img": "https://agciceyim.az/data/catalog/product/682/2085_md.jpg",
     "category": "101 qızılgül buketləri",
     "group": "Buketlər"
+    "description":"ağ qızılgül Mondial - 101 əd."
   },
   {
     "id": 14007,
@@ -261,6 +270,7 @@
     "img": "https://agciceyim.az/data/catalog/product/679/2072_md.jpg",
     "category": "101 qızılgül buketləri",
     "group": "Buketlər"
+   "description":"101 qızılgül qarışığı."
   },
   {
     "id": 14008,
@@ -271,6 +281,7 @@
     "img": "https://agciceyim.az/data/catalog/product/678/2068_md.jpg",
     "category": "101 qızılgül buketləri",
     "group": "Buketlər"
+   "description":"narıncı qızılgül - 33 əd, qırmızı qızılgül - 34 əd, ağ qızılgül - 34 əd."
   },
   {
     "id": 14009,
@@ -280,6 +291,7 @@
     "img": "https://agciceyim.az/data/catalog/product/82/185_md.jpg",
     "category": "101 qızılgül buketləri",
     "group": "Buketlər"
+   "description":"101 yasəmən rəngli qızılgül"
   },
 
    
@@ -292,6 +304,7 @@
     "img": "https://agciceyim.az/data/catalog/product/651/1957_md.jpg",
     "category": "21 əd qızılgül buketləri",
     "group": "Gül buketləri"
+   "description":"Qızılgül (Barracuda) – 21 əd."
   },
   {
     "id": 15005,
@@ -301,6 +314,7 @@
     "img": "https://agciceyim.az/data/catalog/product/647/1942_md.jpg",
     "category": "21 əd qızılgül buketləri",
     "group": "Gül buketləri"
+   "description":"Qızılgül Çəhrayı – 21 əd."
   },
   
   {
@@ -312,6 +326,7 @@
     "img": "https://agciceyim.az/data/catalog/product/664/2008_md.jpg",
     "category": "51 əd qızılgül buketləri",
     "group": "Gül buketləri"
+    "description":" Ağ qızılgül - 17 əd, çəhrayı Aqua qızılgül - 17 əd, Top Gear qızılgül - 17 əd."
   },
   {
     "id": 14002,
@@ -322,6 +337,7 @@
     "img": "https://agciceyim.az/data/catalog/product/663/2005_md.jpg",
     "category": "51 əd qızılgül buketləri",
     "group": "Gül buketləri"
+    "description":"Qızılgül - 51 əd."
   },
   {
     "id": 15003,
@@ -332,6 +348,7 @@
     "img": "https://agciceyim.az/data/catalog/product/662/2000_md.jpg",
     "category": "51 əd qızılgül buketləri",
     "group": "Gül buketləri"
+   "description":"qızılgül - 51 əd."
   },
   {
     "id": 15004,
@@ -342,6 +359,7 @@
     "img": "https://agciceyim.az/data/catalog/product/661/1997_md.jpg",
     "category": "51 əd qızılgül buketləri",
     "group": "Gül buketləri"
+    "description":" Qırmızı qızılgül - 25 əd, Ağ qızılgül - 26 əd."
   },
   {
     "id": 15005,
@@ -352,6 +370,7 @@
     "img": "https://agciceyim.az/data/catalog/product/659/1990_md.jpg",
     "category": "51 əd qızılgül buketləri",
     "group": "Gül buketləri"
+    "description":"Bənövşəyi qızılgül - 51 əd."
   },
   {
     "id": 15006,
@@ -362,6 +381,7 @@
     "img": "https://agciceyim.az/data/catalog/product/658/1984_md.jpg",
     "category": "51 əd qızılgül buketləri",
     "group": "Gül buketləri"
+   "description":"qızılgül - 51 əd."
   },
   {
     "id": 15007,
@@ -372,6 +392,7 @@
     "img": "https://agciceyim.az/data/catalog/product/655/1971_md.jpg",
     "category": "51 əd qızılgül buketləri",
     "group": "Gül buketləri"
+    "description":"qızılgül - 51 əd."
   },
 
   
@@ -383,6 +404,7 @@
     "img": "https://agciceyim.az/data/catalog/product/734/2178_md.jpg",
     "category": "101 əd qızılgül buketləri",
     "group": "Gül buketləri"
+   "description":"101 ədəd kol qızılgülü"
   },
   {
     "id": 14011,
@@ -392,6 +414,7 @@
     "img": "https://agciceyim.az/data/catalog/product/676/2061_md.jpg",
     "category": "101 əd qızılgül buketləri",
     "group": "Gül buketləri"
+   "description":"101 ağ qızılgül."
   },
   {
     "id": 14012,
@@ -402,6 +425,7 @@
     "img": "https://agciceyim.az/data/catalog/product/674/2055_md.jpg",
     "category": "101 əd qızılgül buketləri",
     "group": "Gül buketləri"
+     "description":"mini qırmızı qızılgül – 101 əd."
   },
   {
     "id": 14013,
@@ -412,6 +436,7 @@
     "img": "https://agciceyim.az/data/catalog/product/671/2041_md.jpg",
     "category": "101 əd qızılgül buketləri",
     "group": "Gül buketləri"
+     "description":"Bermud qızılgülü - 101 əd."
   },
   {
     "id": 14014,
@@ -422,6 +447,7 @@
     "img": "https://agciceyim.az/data/catalog/product/669/2029_md.jpg",
     "category": "101 əd qızılgül buketləri",
     "group": "Gül buketləri"
+    "description":"çəhrayı çalarlarda 101 qızılgül"
   },
   {
     "id": 14015,
@@ -432,6 +458,7 @@
     "img": "https://agciceyim.az/data/catalog/product/668/2024_md.jpg",
     "category": "101 əd qızılgül buketləri",
     "group": "Gül buketləri"
+   "description":"Müxtəlif növlərdən 101 qızılgüldən ibarət premium buket"
   },
   {
     "id": 14016,
@@ -442,6 +469,7 @@
     "img": "https://agciceyim.az/data/catalog/product/667/2021_md.jpg",
     "category": "101 əd qızılgül buketləri",
     "group": "Gül buketləri"
+    "description":"Çəhrayı Titanik – 101 əd"
   },
 
   {
@@ -452,6 +480,7 @@
     "img": "https://agciceyim.az/data/catalog/product/739/2196_md.jpg",
     "category": "Mix buketlər",
     "group": "Buketlər"
+   "description":"Mövsümə uyğun güllərin qarışımı (rəng tonları uyğunlaşdırılmış şəkildə)"
   },
   {
     "id": 15002,
@@ -461,6 +490,7 @@
     "img": "https://agciceyim.az/data/catalog/product/616/1834_md.jpg",
     "category": "Mix buketlər",
     "group": "Buketlər"
+   "description":"Xarici qızıl güllər, antirium və əlavə dekorativ güllər"
   },
   {
     "id": 15003,
@@ -470,6 +500,7 @@
     "img": "https://agciceyim.az/data/catalog/product/607/1806_md.jpg",
     "category": "Mix buketlər",
     "group": "Buketlər"
+    "description":"Qızılgül, hortenziya, xrizantema, proteya və dekorativ çiçəklər"
   },
   {
     "id": 15004,
@@ -479,6 +510,7 @@
     "img": "https://agciceyim.az/data/catalog/product/596/1762_md.jpg",
     "category": "Mix buketlər",
     "group": "Buketlər"
+    "description":"Xüsusi açılma ağ roza, eristoma, kinder. Bu tipli qutu və ya səbətdə kompozisiyalar hazırlana bilir. Bu şəkil sadəcə bir nümunədir."
   },
   {
     "id": 15005,
@@ -488,6 +520,7 @@
     "img": "https://agciceyim.az/data/catalog/product/592/1751_md.jpg",
     "category": "Mix buketlər",
     "group": "Buketlər"
+   "description":"Eustoma, Qortenziya, Qərənfil.Buketin daxilində olan bəzi güllər mövsümlə əlaqədar olaraq növü və ya rəngi dəyişdirilə bilər."
   },
   {
     "id": 15006,
@@ -498,6 +531,7 @@
     "img": "https://agciceyim.az/data/catalog/product/586/1723_md.jpg",
     "category": "Mix buketlər",
     "group": "Buketlər"
+   "description":"Qızılgül, Çobanyastığı və dekorativ güllər.Buketin daxilində olan bəzi güllər mövsümlə əlaqədar olaraq növü və ya rəngi dəyişdirilə bilər."
   },
   {
     "id": 15007,
@@ -507,6 +541,7 @@
     "img": "https://agciceyim.az/data/catalog/product/585/1718_md.jpg",
     "category": "Mix buketlər",
     "group": "Buketlər"
+    "description":"Qızılgül, Eustoma, Liliya, Gerber və qarışıq dekorativ güllər. Buketin daxilində olan bəzi güllər mövsümlə əlaqədar olaraq növü və ya rəngi dəyişdirilə bilər."
   },
   {
     "id": 15008,
@@ -516,6 +551,7 @@
     "img": "https://agciceyim.az/data/catalog/product/567/1611_md.jpg",
     "category": "Mix buketlər",
     "group": "Buketlər"
+    "description":"Qızılgül və dekorativ güllər.Buketin daxilində olan bəzi güllər mövsümlə əlaqədar olaraq növü və ya rəngi dəyişdirilə bilər."
   },
   {
     "id": 15009,
@@ -525,6 +561,7 @@
     "img": "https://agciceyim.az/data/catalog/product/563/1599_md.jpg",
     "category": "Mix buketlər",
     "group": "Buketlər"
+    "description":"11 narıcı rəngdə Qızılgül və dekorativ güllər.Buketin daxilində olan bəzi güllər mövsümlə əlaqədar olaraq növü və ya rəngi dəyişdirilə bilər."
   },
   {
     "id": 15010,
@@ -534,6 +571,7 @@
     "img": "https://agciceyim.az/data/catalog/product/516/1440_md.jpg",
     "category": "Mix buketlər",
     "group": "Buketlər"
+   "description":"Qızılgül, Qortenziya, Tülpan və dekorativ güllər.Buketin daxilində olan bəzi güllər mövsümlə əlaqədar olaraq növü və ya rəngi dəyişdirilə bilər."
   },
   {
     "id": 15011,
