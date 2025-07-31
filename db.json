@@ -581,6 +581,7 @@
     "img": "https://agciceyim.az/data/catalog/product/500/1382_md.jpg",
     "category": "Mix buketlər",
     "group": "Buketlər"
+    "description":" Mövsümə uyğun güllərin qarışımı (rəng tonları uyğunlaşdırılmış şəkildə)"
   },
   {
     "id": 15012,
@@ -590,6 +591,7 @@
     "img": "https://agciceyim.az/data/catalog/product/435/1168_md.jpg",
     "category": "Mix buketlər",
     "group": "Buketlər"
+   "description":"Xarici qızıl güllər, antirium və əlavə dekorativ güllər"
   },
   {
     "id": 15013,
@@ -600,6 +602,7 @@
     "img": "https://agciceyim.az/data/catalog/product/382/981_md.jpg",
     "category": "Mix buketlər",
     "group": "Buketlər"
+   "description":"Qızılgül, Hortenziya, kol Qızılgül, Xrizantema.Buketin daxilində olan bəzi güllər mövsümlə əlaqədar olaraq növü və ya rəngi dəyişdirilə bilər."
   },
   {
     "id": 18001,
@@ -609,6 +612,7 @@
     "img": "https://agciceyim.az/data/catalog/product/347/862_md.jpg",
     "category": "Mono Buketlər",
     "group": "Buketlər"
+   "description":"3 mavi Qortenziya buketi"
   },
   {
     "id": 19001,
@@ -618,6 +622,7 @@
     "img": "https://agciceyim.az/data/catalog/product/338/839_md.jpg",
     "category": "Gəlin buketi",
     "group": "Buketlər"
+   "description":"Ağ Kala."
   },
   {
     "id": 19002,
@@ -627,6 +632,7 @@
     "img": "https://agciceyim.az/data/catalog/product/336/834_md.jpg",
     "category": "Gəlin buketi",
     "group": "Buketlər"
+   "description":"Qızılgül, Skimmia, Qərənfil,Ranunculus, Evkalipt"
   },
   {
     "id": 19003,
@@ -636,6 +642,7 @@
     "img": "https://agciceyim.az/data/catalog/product/332/819_md.jpg",
     "category": "Gəlin buketi",
     "group": "Buketlər"
+   "description":"Qortenziya, Diantus, Ozotamnus, Piona bənzər qızılgül, Qipsofiliya, Evkalipt. Buketin tonları eyni qalmaq şərti ilə bəzi güllər və dekorativ otlar mövsümlə əlaqədar olaraq dəyişdirilə bilər"
   },
 
   {
@@ -646,6 +653,7 @@
     "img": "https://agciceyim.az/data/catalog/product/620/1845_md.jpg",
     "category": "Qızılgül buketi",
     "group": "Buketlər"
+   "description":"Xarici rozalar, orxideya və qarışıq dekorativ güllər. Buketin daxilində olan bəzi güllər mövsümlə əlaqədar olaraq növü və ya rəngi dəyişdirilə bilər."
   },
   {
     "id": 16002,
@@ -656,6 +664,7 @@
     "img": "https://agciceyim.az/data/catalog/product/564/1602_md.jpg",
     "category": "Qızılgül buketi",
     "group": "Buketlər"
+    "description":"101 qırmızı Qızılgül buketi."
   },
   {
     "id": 16003,
@@ -665,6 +674,7 @@
     "img": "https://agciceyim.az/data/catalog/product/534/1499_md.jpg",
     "category": "Qızılgül buketi",
     "group": "Buketlər"
+    "description":"Qırmızı Qızılgül və Gipsofiliya . Buketin daxilində olan bəzi dekorotiv güllər mövsümlə əlaqədar olaraq növü dəyişdirilə bilər."
   },
   {
     "id": 16004,
@@ -674,6 +684,7 @@
     "img": "https://agciceyim.az/data/catalog/product/530/1486_md.jpg",
     "category": "Qızılgül buketi",
     "group": "Buketlər"
+    "description":"7 Çəhrayı Qızılgül."
   },
   {
     "id": 16005,
@@ -683,6 +694,7 @@
     "img": "https://agciceyim.az/data/catalog/product/529/1484_md.jpg",
     "category": "Qızılgül buketi",
     "group": "Buketlər"
+    "description":"7 Ağ Qızılgül."
   },
   {
     "id": 16006,
@@ -692,6 +704,7 @@
     "img": "https://agciceyim.az/data/catalog/product/528/1482_md.jpg",
     "category": "Qızılgül buketi",
     "group": "Buketlər"
+    "description":"7 ədəd narıncı Qızılgül buketi."
   },
   {
     "id": 16007,
@@ -701,6 +714,7 @@
     "img": "https://agciceyim.az/data/catalog/product/505/1402_md.jpg",
     "category": "Qızılgül buketi",
     "group": "Buketlər"
+   "description":"25 çəhrayı qızılgüldən ibarət zərif və gözəl buket."
   },
   {
     "id": 16008,
@@ -711,6 +725,7 @@
     "img": "https://agciceyim.az/data/catalog/product/504/1398_md.jpg",
     "category": "Qızılgül buketi",
     "group": "Buketlər"
+   "description":"evkalipt ilə 15 qırmızı qızılgül"
   },
   {
     "id": 16009,
@@ -721,6 +736,7 @@
     "img": "https://agciceyim.az/data/catalog/product/503/1394_md.jpg",
     "category": "Qızılgül buketi",
     "group": "Buketlər"
+     "description":"101 çəhrayı qızılgüllər"
   },
    {
     "id": 17001,
@@ -730,6 +746,7 @@
     "img": "https://agciceyim.az/data/catalog/product/303/738_md.jpg",
     "category": "Qızılgül qutuda",
     "group": "Qızılgüllər"
+     "description":"Qutuda 27 qırmızı qızılgül"
   },
   {
     "id": 17002,
@@ -739,6 +756,7 @@
     "img": "https://agciceyim.az/data/catalog/product/300/731_md.jpg",
     "category": "Qızılgül qutuda",
     "group": "Qızılgüllər"
+    "description":"Qutuda 17 Qızılgül"
   },
   {
     "id": 17003,
@@ -748,6 +766,7 @@
     "img": "https://agciceyim.az/data/catalog/product/276/663_md.jpg",
     "category": "Qızılgül qutuda",
     "group": "Qızılgüllər"
+    "description":" Qırmızı Holland qızılgüllərindən kompozisiya"
   },
 
   {
@@ -758,6 +777,7 @@
     "img": "https://agciceyim.az/data/catalog/product/821/2307_md.jpg",
     "category": "Qutuda güllər",
     "group": "Kompozisiyalar"
+     "description":"Mövsümə uyğun güllərin qarışımı (rəng tonları uyğunlaşdırılmış şəkildə)"
   },
   {
     "id": 20002,
@@ -768,6 +788,7 @@
     "img": "https://agciceyim.az/data/catalog/product/804/2286_md.jpg",
     "category": "Qutuda güllər",
     "group": "Kompozisiyalar"
+     "description":"Gerbera."
   },
   {
     "id": 20003,
@@ -777,6 +798,7 @@
     "img": "https://agciceyim.az/data/catalog/product/490/1346_md.jpg",
     "category": "Qutuda güllər",
     "group": "Kompozisiyalar"
+     "description":Qızılgül, Xrizantema və qarışıq dekorativ güllər. Buketin daxilində olan bəzi güllər mövsümlə əlaqədar olaraq növü və ya rəngi dəyişdirilə bilər."
   },
    {
     "id": 21001,
@@ -787,6 +809,7 @@
     "img": "https://agciceyim.az/data/catalog/product/741/2199_md.jpg",
     "category": "Səbət və Yeşik",
     "group": "Kompozisiyalar"
+      "description":"101 kol Qızılgülü çəhrayı"
   },
   {
     "id": 21002,
@@ -797,6 +820,7 @@
     "img": "https://agciceyim.az/data/catalog/product/629/1878_md.png",
     "category": "Səbət və Yeşik",
     "group": "Kompozisiyalar"
+      "description":"Qırmızı Ekvador, Holland Qızıl Gül"
   },
   {
     "id": 21003,
@@ -806,6 +830,8 @@
     "img": "https://agciceyim.az/data/catalog/product/578/1669_md.jpg",
     "category": "Səbət və Yeşik",
     "group": "Kompozisiyalar"
+    "description":"Ad yazılı 25 çəhrayı Qızılgül Buketi"
+   
   },
   {
     "id": 22001,
@@ -815,6 +841,7 @@
     "img": "https://agciceyim.az/data/catalog/product/605/1799_md.jpg",
     "category": "Vazada",
     "group": "Kompozisiyalar"
+    "description":"Şüşə vazada Anturium çiçəklərdən ibarət kompozisiya sadəliyi və eyni zamanda incəliyi ilə heyrətamizdir. Nəcib ağ-yaşıl tonlar kompozisiyanın sakit, balanslı tonlar yaradır. Ailəniz və dostlarınız üçün bir neçə gün orijinal formasını saxlayacaq heyrətamiz hədiyyə."
   },
 
   {
@@ -825,6 +852,7 @@
   "img": "https://agciceyim.az/data/catalog/product/507/1406_md.jpg",
   "category": "Şirniyyatlar",
   "group": "Hədiyyə"
+    "description":"FERRERO ROCHER - Südlü şokolad və zərif fındıq kremi ilə əhatə olunmuş, şokolad və fındıq qırıntıları ilə örtülmüş, xırtıldayan vafli qabığa daxil edilmiş seçilmiş bütöv fındıq."
 },
  {
   "id": 30002,
@@ -834,6 +862,8 @@
   "img": "https://agciceyim.az/data/catalog/product/792/2274_md.jpg",
   "category": "Yumşaq Oyuncaqlar",
   "group": "Hədiyyə"
+   "description":"Yumşaq oyuncaq"
+  
 },
 {
   "id": 30003,
@@ -843,6 +873,7 @@
   "img": "https://agciceyim.az/data/catalog/product/498/1375_md.jpg",
   "category": "Şarlar",
   "group": "Hədiyyə"
+   "description":"yüksək keyfiyyətli helium ürək formalı şarlar"
 },
  {
     "id": 40001,
@@ -852,6 +883,7 @@
     "img": "https://agciceyim.az/data/catalog/product/820/2306_md.jpg",
     "category": "Yeməli Buketlər",
     "group": "Hədiyyə"
+    "description":"Mövsümə uyğun güllərin qarışımı (rəng tonları uyğunlaşdırılmış şəkildə) və mövsümə uyğun meyvə qarışımı"
   },
   {
     "id": 40002,
@@ -862,6 +894,7 @@
     "img": "https://agciceyim.az/data/catalog/product/815/2300_md.jpg",
     "category": "Yeməli Buketlər",
     "group": "Hədiyyə"
+     "description":"Qarışıq şokoladlar"
   },
  
   {
@@ -873,6 +906,7 @@
     "img": "https://agciceyim.az/data/catalog/product/441/1189_md.jpg",
     "category": "Otaq bitkiləri",
     "group": "Bitkilər"
+     "description":"Orxideya bitkisinin Morelia növü ən məşhur və geniş yayılmış növlərindən biridir.Buna səbəb bitkinin incə gözəlliyi və iddiasızlığıdır. Bu növü Orijinal və cəlbedici edən yalnız çiçəklər deyil, həm də tünd yaşıl rəngə sahib olan yarpaqlarıdır. Ev bitkisinin bol çiçəkləməsi və budaq sayının artması üçün lazımı qulluğu havanın nəm balansına riayət etmək son dərəcə vacibdir. Morelia üçün lazımi mikroiqlim yaratmaq üçün substratın rütubət səviyyəsini izləmək və otaqda temperaturun qalxmasının qarşısını almaq lazımdır."
   },
   {
     "id": 50002,
@@ -882,6 +916,7 @@
     "img": "https://agciceyim.az/data/catalog/product/353/881_md.jpg",
     "category": "Otaq bitkiləri",
     "group": "Bitkilər"
+     "description":"Anturium-ən gözəl və elegant ev bitkilərindədir. O, gözəl və şux görünüşlü çiçəkləri və yaşıl yarpaqları ilə göz oxşayan bitkidir.Bu bitkinin digər adı flamingodur. Anturiumun torpağı həmişə nəm halda olmalıdır.Qaldığı otağın temperaturu +15C və ondan yüksək olmalıdır, isti havanı sevir. Bitkiyə dəvamlı su sərpmək lazımdır. Bu həm bitkinin yarpaqlarını nəmləndirir həmdə onu zəhərli həşəratlardan təmizləyir. Sulama zamanı otaq tempeaturunda qalmış sudan istifadə etmək lazımdır."
   },
   
     {
@@ -892,6 +927,7 @@
   "img": "https://agciceyim.az/data/catalog/product/754/2215_md.jpeg",
   "category": "Valentin Günü",
   "group": "Səbəb"
+  "description":"121 qırmızı qızılgül"
 },
 {
   "id": 80001,
@@ -901,6 +937,7 @@
   "img": "https://agciceyim.az/data/catalog/product/796/2278_md.jpg",
   "category": "8 Mart",
   "group": "Səbəb"
+   "description":"Xarici rozalar 11 ədəd"
 },
 {
   "id": 90001,
@@ -910,6 +947,7 @@
   "img": "https://agciceyim.az/data/catalog/product/733/2177_md.jpg",
   "category": "Aksesuarlar",
   "group": "Yeni il"
+   "description":"bant qırmızı"
 }
 
 
