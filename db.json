@@ -1065,7 +1065,7 @@
   {
     "id": 3,
     "name": "BUKETLƏR",
-    "slug": "buketler",
+    "slug": "Buketler",
     "children": [
       { "id": 101, "name": "Mix buketlər", "slug": "mix-buketler" },
       { "id": 102, "name": "Mono buketlər", "slug": "mono-buketler" },
