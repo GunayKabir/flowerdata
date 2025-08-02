@@ -1028,29 +1028,28 @@
     }
   ],
 
-  
-  "dropdowns": [
+  [
   {
     "id": 1,
     "name": "BUKETLƏR",
     "slug": "buketler-lale-qizilgul-pion-ve-diger",
     "children": [
-      { "id": 1001, "name": "LALƏLƏR", "slug": "laleler" },
-      { "id": 1002, "name": "QIZILGÜLLƏR", "slug": "qizilguller" },
-      { "id": 1003, "name": "PION", "slug": "pion" },
-      { "id": 1004, "name": "PION QIZILGÜLLƏRİ", "slug": "pion-qizilgulleri" },
-      { "id": 1005, "name": "ORTANCALAR", "slug": "ortancalar" },
-      { "id": 1006, "name": "ORKİDE İLƏ BUKETLƏR", "slug": "orkide-ile-buketler" },
-      { "id": 1007, "name": "ALSTROEMERIA İLƏ BUKETLƏR", "slug": "alstroemeria-ile-buketler" },
-      { "id": 1008, "name": "İRİS İLƏ BUKETLƏR", "slug": "iris-ile-buketler" },
-      { "id": 1009, "name": "GERBERA İLƏ BUKETLƏR", "slug": "gerbera-ile-buketler" },
-      { "id": 1010, "name": "PAPATYA İLƏ BUKETLƏR", "slug": "papatya-ile-buketler" },
-      { "id": 1011, "name": "EUSTOMA İLƏ BUKETLƏR", "slug": "eustoma-ile-buketler" },
-      { "id": 1012, "name": "ZANBAQ İLƏ BUKETLƏR", "slug": "zanbaq-ile-buketler" },
-      { "id": 1013, "name": "XRİZANTEMA İLƏ BUKETLƏR", "slug": "xrizantema-ile-buketler" },
-      { "id": 1014, "name": "101 QIZILGÜL BUKETLƏRİ", "slug": "101-qizilgul-buketleri" },
-      { "id": 1015, "name": "51 QIZILGÜL BUKETLƏRİ", "slug": "51-qizilgul-buketleri" },
-      { "id": 1016, "name": "21 QIZILGÜL BUKETLƏRİ", "slug": "21-qizilgul-buketleri" }
+      { "id": 1001, "name": "Lalələr", "slug": "laleler" },
+      { "id": 1002, "name": "Qızılgüllər", "slug": "qizilguller" },
+      { "id": 1003, "name": "Pion", "slug": "pion" },
+      { "id": 1004, "name": "Pion qızılgülləri", "slug": "pion-qizilgulleri" },
+      { "id": 1005, "name": "Ortancalar", "slug": "ortancalar" },
+      { "id": 1006, "name": "Orkide ilə buketlər", "slug": "orkide-ile-buketler" },
+      { "id": 1007, "name": "Alstroemeria ilə buketlər", "slug": "alstroemeria-ile-buketler" },
+      { "id": 1008, "name": "İris ilə buketlər", "slug": "iris-ile-buketler" },
+      { "id": 1009, "name": "Gerbera ilə buketlər", "slug": "gerbera-ile-buketler" },
+      { "id": 1010, "name": "Papatya ilə buketlər", "slug": "papatya-ile-buketler" },
+      { "id": 1011, "name": "Eustoma ilə buketlər", "slug": "eustoma-ile-buketler" },
+      { "id": 1012, "name": "Zanbaq ilə buketlər", "slug": "zanbaq-ile-buketler" },
+      { "id": 1013, "name": "Xrizantema ilə buketlər", "slug": "xrizantema-ile-buketler" },
+      { "id": 1014, "name": "101 qızılgül buketləri", "slug": "101-qizilgul-buketleri" },
+      { "id": 1015, "name": "51 qızılgül buketləri", "slug": "51-qizilgul-buketleri" },
+      { "id": 1016, "name": "21 qızılgül buketləri", "slug": "21-qizilgul-buketleri" }
     ]
   },
   {
@@ -1058,9 +1057,9 @@
     "name": "GÜL BUKETLƏRİ",
     "slug": "gul-buketleri",
     "children": [
-      { "id": 201, "name": "21 ƏD QIZILGÜL BUKETLƏRİ", "slug": "21-ed-qizilgul-buketleri" },
-      { "id": 202, "name": "51 ƏD QIZILGÜL BUKETLƏRİ", "slug": "51-ed-qizilgul-buketleri" },
-      { "id": 203, "name": "101 ƏD QIZILGÜL BUKETLƏRİ", "slug": "101-ed-qizilgul-buketleri" }
+      { "id": 201, "name": "21 əd qızılgül buketləri", "slug": "21-ed-qizilgul-buketleri" },
+      { "id": 202, "name": "51 əd qızılgül buketləri", "slug": "51-ed-qizilgul-buketleri" },
+      { "id": 203, "name": "101 əd qızılgül buketləri", "slug": "101-ed-qizilgul-buketleri" }
     ]
   },
   {
@@ -1068,9 +1067,9 @@
     "name": "BUKETLƏR",
     "slug": "buketler",
     "children": [
-      { "id": 101, "name": "MİX BUKETLƏR", "slug": "mix-buketler" },
-      { "id": 102, "name": "MONO BUKETLƏR", "slug": "mono-buketler" },
-      { "id": 103, "name": "GƏLİN BUKETİ", "slug": "gelin-buketi" }
+      { "id": 101, "name": "Mix buketlər", "slug": "mix-buketler" },
+      { "id": 102, "name": "Mono buketlər", "slug": "mono-buketler" },
+      { "id": 103, "name": "Gəlin buketi", "slug": "gelin-buketi" }
     ]
   },
   {
@@ -1078,8 +1077,8 @@
     "name": "QIZILGÜL",
     "slug": "qizilgul",
     "children": [
-      { "id": 301, "name": "QIZILGÜL BUKETİ", "slug": "qizilgul-buketi" },
-      { "id": 302, "name": "QIZILGÜL QUTUDA", "slug": "qizilgul-qutuda" }
+      { "id": 301, "name": "Qızılgül buketi", "slug": "qizilgul-buketi" },
+      { "id": 302, "name": "Qızılgül qutuda", "slug": "qizilgul-qutuda" }
     ]
   },
   {
@@ -1087,10 +1086,10 @@
     "name": "KOMPOZİSİYA",
     "slug": "kompozisiya",
     "children": [
-      { "id": 401, "name": "QUTUDA GÜLLƏR", "slug": "qutuda-guller" },
-      { "id": 402, "name": "SƏBƏT VƏ YEŞİK", "slug": "sebet-ve-yesik" },
-      { "id": 403, "name": "GÜLDƏN YAZILAR", "slug": "gulden-yazilar" },
-      { "id": 404, "name": "VAZADA", "slug": "vazada" }
+      { "id": 401, "name": "Qutuda güllər", "slug": "qutuda-guller" },
+      { "id": 402, "name": "Səbət və yeşik", "slug": "sebet-ve-yesik" },
+      { "id": 403, "name": "Güldən yazılar", "slug": "gulden-yazilar" },
+      { "id": 404, "name": "Vazada", "slug": "vazada" }
     ]
   },
   {
@@ -1098,11 +1097,11 @@
     "name": "HƏDİYYƏ",
     "slug": "hediyye",
     "children": [
-      { "id": 501, "name": "ŞİRNIYYATLAR", "slug": "sirniyyatlar" },
-      { "id": 502, "name": "YUMŞAQ OYUNCAQLAR", "slug": "yumsag-oyuncaqlar" },
-      { "id": 503, "name": "ŞARLAR", "slug": "sarlar" },
-      { "id": 504, "name": "YEMƏLİ BUKETLƏR", "slug": "yemeli-buketler" },
-      { "id": 505, "name": "TORTLAR", "slug": "tortlar" }
+      { "id": 501, "name": "Şirniyyatlar", "slug": "sirniyyatlar" },
+      { "id": 502, "name": "Yumşaq oyuncaqlar", "slug": "yumsag-oyuncaqlar" },
+      { "id": 503, "name": "Şarlar", "slug": "sarlar" },
+      { "id": 504, "name": "Yeməli buketlər", "slug": "yemeli-buketler" },
+      { "id": 505, "name": "Tortlar", "slug": "tortlar" }
     ]
   },
   {
@@ -1110,7 +1109,7 @@
     "name": "BİTKİ",
     "slug": "bitki",
     "children": [
-      { "id": 601, "name": "OTAQ BİTKİLƏRİ", "slug": "otaq-bitkileri" }
+      { "id": 601, "name": "Otaq bitkiləri", "slug": "otaq-bitkileri" }
     ]
   },
   {
@@ -1118,10 +1117,10 @@
     "name": "SƏBƏB",
     "slug": "sebeb",
     "children": [
-      { "id": 701, "name": "VALENTİN GÜNÜ", "slug": "valentin-gunu" },
-      { "id": 702, "name": "8 MART", "slug": "8-mart" },
-      { "id": 703, "name": "NOVRUZ BAYRAMI", "slug": "novruz-bayrami" },
-      { "id": 704, "name": "RAMAZAN", "slug": "ramazan" }
+      { "id": 701, "name": "Valentin günü", "slug": "valentin-gunu" },
+      { "id": 702, "name": "8 Mart", "slug": "8-mart" },
+      { "id": 703, "name": "Novruz bayramı", "slug": "novruz-bayrami" },
+      { "id": 704, "name": "Ramazan", "slug": "ramazan" }
     ]
   },
   {
@@ -1129,10 +1128,10 @@
     "name": "YENİ İL",
     "slug": "yeni-il",
     "children": [
-      { "id": 801, "name": "ŞAM AĞACLARI", "slug": "sam-agaclari" },
-      { "id": 802, "name": "YENİ İL DEKORU", "slug": "yeni-il-dekoru" },
-      { "id": 803, "name": "AKSESUARLAR", "slug": "aksesuarlar" },
-      { "id": 804, "name": "YENİ İL KOMPOZİSİYALAR", "slug": "yeni-il-kompozisiyalar" }
+      { "id": 801, "name": "Şam ağacları", "slug": "sam-agaclari" },
+      { "id": 802, "name": "Yeni il dekoru", "slug": "yeni-il-dekoru" },
+      { "id": 803, "name": "Aksesuarlar", "slug": "aksesuarlar" },
+      { "id": 804, "name": "Yeni il kompozisiyalar", "slug": "yeni-il-kompozisiyalar" }
     ]
   },
   {
@@ -1154,6 +1153,7 @@
     "children": []
   }
 ]
+
 
 }
 
