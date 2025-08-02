@@ -1098,7 +1098,7 @@
     "slug": "hediyye",
     "children": [
       { "id": 501, "name": "Şirniyyatlar", "slug": "sirniyyatlar" },
-      { "id": 502, "name": "Yumşaq oyuncaqlar", "slug": "yumsag-oyuncaqlar" },
+      { "id": 502, "name": "Yumşaq oyuncaqlar", "slug": "yumsaq-oyuncaqlar" },
       { "id": 503, "name": "Şarlar", "slug": "sarlar" },
       { "id": 504, "name": "Yeməli buketlər", "slug": "yemeli-buketler" },
       { "id": 505, "name": "Tortlar", "slug": "tortlar" }
