@@ -1032,7 +1032,7 @@
   {
     "id": 1,
     "name": "BUKETLƏR",
-    "slug": "buketler-lale-qizilgul-pion-ve-diger",
+    "slug": "buketler",
     "children": [
       { "id": 1001, "name": "Lalələr", "slug": "laleler" },
       { "id": 1002, "name": "Qızılgüllər", "slug": "qizilguller" },
