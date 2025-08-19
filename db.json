@@ -959,59 +959,60 @@
   {
     "id": 201,
     "category": "Buketlər",
-    "slug": "buketler"
+    "slug": "buketler-cat"
   },
   {
     "id": 202,
     "category": "Gül Buketləri",
-    "slug": "gul-buketleri"
+    "slug": "gul-buketleri-cat"
   },
   {
     "id": 203,
     "category": "Qızılgül",
-    "slug": "qizilgul"
+    "slug": "qizilgul-cat"
   },
   {
     "id": 204,
     "category": "Kompozisiya",
-    "slug": "kompozisiya"
+    "slug": "kompozisiya-cat"
   },
   {
     "id": 205,
     "category": "Hədiyyə",
-    "slug": "hediyye"
+    "slug": "hediyye-cat"
   },
   {
     "id": 206,
     "category": "Bitki",
-    "slug": "bitki"
+    "slug": "bitki-cat"
   },
   {
     "id": 207,
     "category": "Səbəb",
-    "slug": "sebeb"
+    "slug": "sebeb-cat"
   },
   {
     "id": 208,
     "category": "Yeni İl",
-    "slug": "yeni-il"
+    "slug": "yeni-il-cat"
   },
   {
     "id": 209,
     "category": "Endirimlər",
-    "slug": "endirimler"
+    "slug": "endirimler-cat"
   },
   {
     "id": 210,
     "category": "Buket Yarat",
-    "slug": "buket-yarat"
+    "slug": "buket-yarat-cat"
   },
   {
     "id": 211,
     "category": "Sifariş Statusu",
-    "slug": "sifaris-statusu"
+    "slug": "sifaris-statusu-cat"
   }
 ],
+
 
  "users": [
     {
@@ -1065,7 +1066,7 @@
   {
     "id": 3,
     "name": "BUKETLƏR",
-    "slug": "Buketler",
+    "slug": "buketler-klasik",
     "children": [
       { "id": 101, "name": "Mix buketlər", "slug": "mix-buketler" },
       { "id": 102, "name": "Mono buketlər", "slug": "mono-buketler" },
